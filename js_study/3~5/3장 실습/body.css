@@ -1,0 +1,16 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    color: cornflowerblue;
+}
+
+.clicked {
+    color: tomato;
+    transition:color 0.5s ease-in-out;
+}
+
+.font {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
