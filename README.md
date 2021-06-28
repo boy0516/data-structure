@@ -21,6 +21,10 @@
 - 클론코딩+바닐라JS 수업 4주동안 수강 후 2주 챌린지!
   - 바닐라JS 수업
     - https://nomadcoders.co/javascript-for-beginners/enroll
+  - 클론코딩 강의(민주)
+    - https://www.youtube.com/watch?v=67stn7Pu7s4&t=462s
+  - 스프링
+    - https://www.inflearn.com/course/spring-boot-restful-web-services/dashboard
 - 클론코딩 강의는 각자 선택해서 보고 옵니다.
 - 매 주 수요일 만나서 본인의 진행도를 서로 체크합니다.
 
@@ -30,5 +34,10 @@
 
 0616 스터디: 오후 4시~6시(예정)
 
+
+
 0623 스터디: 오전 10시~12시(예정)
+
+- 자바스크립트 강의 2~5 강까지 듣고 오기
+- 자료구조 강의 4강까지 듣고 오기
 
