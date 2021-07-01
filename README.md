@@ -43,3 +43,5 @@
 - 포인터
   - https://www.acmicpc.net/problem/2003
 
+- https://programmers.co.kr/learn/courses/30/lessons/42586?language=python3 민주 숙제
+
